@@ -6,5 +6,5 @@ A few animated gif I created with the help of gganimate and
 
 ![](http://i.imgur.com/IxFmWXq.gif)
 
-![](http://i.imgur.com/kqcNLqy.gif
+![](http://i.imgur.com/kqcNLqy.gif)
 
